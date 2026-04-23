@@ -1,4 +1,4 @@
-#include<stdio.h>/*# is preprocessor directive keyword, include gives command to include*/
+#include<stdio.h> // # is preprocessor directive keyword, include gives command to include
 
 
 int main()
