@@ -1,3 +1,4 @@
+//Here we check the size of the variables
 #include<stdio.h>
 
 int main()
