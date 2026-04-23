@@ -1,3 +1,4 @@
+// Here we display all the address of the variable where they are stored in the memory, it may vary for everyone
 #include<stdio.h>
 
 int main()
