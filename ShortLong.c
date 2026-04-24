@@ -1,3 +1,4 @@
+// Here we use the short and long data type size modifiers
 #include<stdio.h>
 
 int main()
