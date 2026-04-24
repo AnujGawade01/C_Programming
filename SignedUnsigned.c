@@ -1,3 +1,5 @@
+// Here we use the signed and unsigned data type range modifiers.
+// unsigned bit cannot be a negative number as the first bit is not treated as signed bit and is actually used for storing the data
 #include<stdio.h>
 
 int main()
