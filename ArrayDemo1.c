@@ -1,3 +1,4 @@
+// Here we create array of different primitive data types and check their sizes by using sizeof() operator
 #include<stdio.h>
 
 int main()
