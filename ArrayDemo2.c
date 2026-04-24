@@ -1,3 +1,4 @@
+// Here we print the first(0th index) values from each array 
 #include<stdio.h>
 
 int main()
