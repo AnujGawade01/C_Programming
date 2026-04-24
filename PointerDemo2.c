@@ -1,3 +1,4 @@
+// Here we create pointer of different primitive data types
 #include<stdio.h>
 
 int main()
