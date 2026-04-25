@@ -1,3 +1,4 @@
+// Here we make the call for the Display function in main function 
 #include<stdio.h>
 
 void Display()
