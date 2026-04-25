@@ -1,3 +1,4 @@
+// Here we call the Display function 3 times 
 #include<stdio.h>
 
 void Display()
