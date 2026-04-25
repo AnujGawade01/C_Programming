@@ -1,3 +1,4 @@
+// Here we make call by value function call
 #include<stdio.h>
 
 void Display(int No1, int No2)
