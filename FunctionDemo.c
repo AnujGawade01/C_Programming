@@ -1,3 +1,4 @@
+// Here we create a function Display to display the statement
 #include<stdio.h>
 
 void Display()
