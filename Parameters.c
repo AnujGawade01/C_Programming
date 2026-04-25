@@ -1,3 +1,4 @@
+// Here we write a function Dispay that takes 2 parameters and displays them 
 #include<stdio.h>
 
 void Display(int No1, int No2)
