@@ -1,4 +1,4 @@
-// Here we create a function Display to display the statement
+// Here we create a function Display without making its call in main fujnction
 #include<stdio.h>
 
 void Display()
