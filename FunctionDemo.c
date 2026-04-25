@@ -1,4 +1,4 @@
-// Here we create a function Display without making its call in main fujnction
+// Here we create a function Display without making its call in main function
 #include<stdio.h>
 
 void Display()
