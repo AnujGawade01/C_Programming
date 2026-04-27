@@ -1,3 +1,4 @@
+// Here we create a structure
 #include<stdio.h>
 
 //Declaration
