@@ -1,4 +1,4 @@
-// Here we use pragma pack directive to instruct the compiler to align & allocate memory to the members to the value of 1 byte as to avoid padding
+// Here we create a structure and initialize the values of its members and then print them 
 #include<stdio.h>
 //Declaration
 #pragma pack(1)
