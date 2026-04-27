@@ -1,4 +1,4 @@
-//created for C Programming Assignment 8 Q.No 8 together with 1stSecond.c
+//created for C Programming Assignment 8 Q.No 8 together with 1stSecond.c to compile together
 
 #include<stdio.h>
 
