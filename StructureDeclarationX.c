@@ -1,3 +1,4 @@
+//Here we create a structure that also generates padding
 #include<stdio.h>
 
 //Declaration
