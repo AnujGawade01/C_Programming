@@ -1,3 +1,4 @@
+// HEre we create a structure object's array
 #include<stdio.h>
 
 struct Demo
