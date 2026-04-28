@@ -1,3 +1,4 @@
+// Here we create a structure that contains integer i and pointer ptr and initialize them with values
 #include<stdio.h>
 
 struct Demo
