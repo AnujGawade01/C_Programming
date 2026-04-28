@@ -1,3 +1,4 @@
+// Here we create a structure that contains a pointer 
 #include<stdio.h>
 
 struct Demo
