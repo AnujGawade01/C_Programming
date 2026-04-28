@@ -1,3 +1,4 @@
+// Here we create a structure that contains an array
 #include<stdio.h>
 
 struct Hello
