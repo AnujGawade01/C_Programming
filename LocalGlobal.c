@@ -1,3 +1,4 @@
+// Here we create a local and global variables
 #include<stdio.h>
 
 int no = 11;        // Global variable (Data)
@@ -12,7 +13,7 @@ void fun()
 
 int main()
 {
-    int i = 21;     // Local variabel (Stack)
+    int i = 21;     // Local variable (Stack)
 
     printf("Inside main : %d\n",i);     // 21
     printf("Inside main : %d\n",no);    // 11
