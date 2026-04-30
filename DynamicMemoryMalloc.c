@@ -1,3 +1,4 @@
+//Here we use malloc function for dynamic memory allocation
 #include<stdio.h>
 #include<stdlib.h>
 
