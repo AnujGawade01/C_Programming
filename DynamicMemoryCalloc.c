@@ -1,3 +1,4 @@
+// Here we use calloc function to dynamically allocate memory
 #include<stdio.h>
 #include<stdlib.h>
 
