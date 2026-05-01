@@ -1,3 +1,4 @@
+// Here we create a string and a pointer to the string and print all the letters of string using the pointer and shorthand ++ operator
 #include<stdio.h>
 
 int main()
