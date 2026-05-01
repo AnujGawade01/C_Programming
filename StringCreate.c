@@ -1,3 +1,4 @@
+// Here we perform the initialization of string via different ways
 #include<stdio.h>
 
 int main()
