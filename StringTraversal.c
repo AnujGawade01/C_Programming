@@ -1,3 +1,4 @@
+// Here we traverse the string and print it using while loop and pointer 
 #include<stdio.h>
 
 int main()
