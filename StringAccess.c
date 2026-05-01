@@ -1,3 +1,4 @@
+// Here we create a string and print its each character
 #include<stdio.h>
 
 int main()
