@@ -1,3 +1,4 @@
+// Here we have used static memory allocation and used a loop to enter the values and then to display the values
 #include<stdio.h>
 int main()
 {
