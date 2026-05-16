@@ -1,4 +1,4 @@
-// Here we have used static memory allocation
+// Here we have used static memory allocation & sequence to enter the values
 #include<stdio.h>
 int main()
 {
