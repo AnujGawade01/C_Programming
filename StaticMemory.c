@@ -1,3 +1,4 @@
+// Here we have used static memory allocation
 #include<stdio.h>
 int main()
 {
